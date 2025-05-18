@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="imageIpTest" location="C:/Users/danya/Downloads/imageProcessingSystem/imageIpTest" platform="C:/Users/danya/Downloads/imageProcessingSystem/imageProcessingSystem_wrapper/export/imageProcessingSystem_wrapper/imageProcessingSystem_wrapper.xpfm" platformUID="xilinx:pynq-z2::0.0(custom)" systemProject="imageIpTest_system" sysConfig="imageProcessingSystem_wrapper" runtime="cpp" cpu="standalone_domain" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="708f8ebc0bac2f784353ca78c0bb69cc">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.692754120" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1206726384" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>

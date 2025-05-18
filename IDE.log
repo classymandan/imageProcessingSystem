@@ -1,0 +1,14 @@
+00:29:01 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\danya\Downloads\imageProcessingSystem\temp_xsdb_launch_script.tcl
+00:29:03 INFO  : Registering command handlers for Vitis TCF services
+00:29:03 INFO  : XSCT server has started successfully.
+00:29:03 INFO  : plnx-install-location is set to ''
+00:29:03 INFO  : Successfully done setting XSCT server connection channel  
+00:29:03 INFO  : Successfully done query RDI_DATADIR 
+00:29:03 INFO  : Successfully done setting workspace for the tool. 
+00:31:35 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\danya\Downloads\imageProcessingSystem\temp_xsdb_launch_script.tcl
+00:31:37 INFO  : XSCT server has started successfully.
+00:31:37 INFO  : plnx-install-location is set to ''
+00:31:37 INFO  : Successfully done setting XSCT server connection channel  
+00:31:37 INFO  : Successfully done query RDI_DATADIR 
+00:31:37 INFO  : Successfully done setting workspace for the tool. 
+00:31:38 INFO  : Registering command handlers for Vitis TCF services
